@@ -2,16 +2,16 @@
   "name": "razorpay-dev",
   "description": "Development marketplace for Razorpay Integration Plugin",
   "owner": {
-    "name": "Venkateshwar-PortoAI"
+    "name": "Venkateshwar Reddy"
   },
   "plugins": [
     {
       "name": "razorpay",
-      "description": "Full-lifecycle Razorpay integration — 14 skills, 9 agents, every production gotcha documented",
+      "description": "Razorpay billing workflows for Claude Code: 15 skills and 9 agents covering subscriptions, webhooks, refunds and billing operations.",
       "version": "1.0.0",
       "source": "./",
       "author": {
-        "name": "Venkateshwar-PortoAI"
+        "name": "Venkateshwar Reddy"
       }
     }
   ]

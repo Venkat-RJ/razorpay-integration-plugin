@@ -11,9 +11,9 @@
 
 # Razorpay Integration Plugin for Claude Code
 
-**The only Razorpay plugin that knows what the docs don't tell you.**
+**Razorpay billing workflows for Claude Code.**
 
-Production-grade billing patterns for Indian SaaS — every Razorpay gotcha documented so you don't have to discover them.
+Integration guidance for Indian SaaS: subscriptions, webhooks, refunds and billing operations.
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Skills](https://img.shields.io/badge/skills-15-green.svg)](#skills)
@@ -36,10 +36,12 @@ Production-grade billing patterns for Indian SaaS — every Razorpay gotcha docu
 
 ---
 
+> **Project context:** PortoAI closed in September 2026. This repository is retained as a standalone open-source plugin.
+
 ## Install
 
 ```bash
-git clone https://github.com/Venkateshwar-PortoAI/razorpay-integration-plugin.git
+git clone https://github.com/Venkat-RJ/razorpay-integration-plugin.git
 claude --plugin-dir ./razorpay-integration-plugin
 ```
 
@@ -251,7 +253,7 @@ Found a Razorpay gotcha we missed? PRs welcome. The goal is to document every pr
 
 **Built with ❤️ by** <a href="https://portoai.co"><img src="assets/portoai-logo.png" alt="PortoAI" width="18" height="18" /> **[portoai.co](https://portoai.co)**</a>
 
-[Website](https://portoai.co) · [GitHub](https://github.com/Venkateshwar-PortoAI) · MIT License
+[Website](https://portoai.co) · [GitHub](https://github.com/Venkat-RJ) · MIT License
 
 <br><br>
 

@@ -1,13 +1,13 @@
 {
   "name": "razorpay",
-  "description": "Full-lifecycle Razorpay integration plugin with 14 skills and agents — from initial setup through subscriptions, webhooks, plan changes, one-time payments, refunds, customer portal, admin ops, metrics, dunning, local testing, go-live hardening, Stripe migration, and debugging. Covers setup through daily operations, migration, and troubleshooting.",
+  "description": "Razorpay billing workflows for Claude Code: 15 skills and 9 agents covering subscriptions, webhooks, refunds and billing operations.",
   "version": "1.0.0",
   "author": {
-    "name": "Venkateshwar-PortoAI"
+    "name": "Venkateshwar Reddy"
   },
-  "repository": "https://github.com/Venkateshwar-PortoAI/razorpay-integration-plugin",
+  "repository": "https://github.com/Venkat-RJ/razorpay-integration-plugin",
   "license": "MIT",
-  "homepage": "https://portoai.co",
+  "homepage": "https://github.com/Venkat-RJ/razorpay-integration-plugin",
   "keywords": [
     "razorpay",
     "payments",
